@@ -1,4 +1,4 @@
-# qrcode
+# qrcode-vue
 
 ## Project setup
 ```
