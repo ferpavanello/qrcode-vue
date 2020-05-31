@@ -1,4 +1,6 @@
-# qrcode-vue
+# QRCode-vue
+
+![](./sample-img.png)
 
 ## Project setup
 ```
